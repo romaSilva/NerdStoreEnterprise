@@ -1,0 +1,10 @@
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\RomáriodaSilva\source\repos\NerdStoreEnterprise\src\building blocks\Core\obj\Debug\netcoreapp3.1\Core.pdb

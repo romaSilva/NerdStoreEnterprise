@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bxtIwixORM4dvFK3nVOH0YGgTOovbRmYlK/ECxZXvKucSnGUI1Ov9EGI36TOlM8APqduVbQRLnVQwW+CT4M58A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RomáriodaSilva\\source\\repos\\NerdStoreEnterprise\\src\\services\\Order.API\\Order.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RomáriodaSilva\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}

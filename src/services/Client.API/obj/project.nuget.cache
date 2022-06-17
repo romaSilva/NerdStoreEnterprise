@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sksWbSCjFdy+/Olr2sAJ5b/fdrjGk6DEBT0VsvCkHy7c1UsfFEaTS/t3gY2uvXQncCNUsG0GUb6ee2Gdcx+Gmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RomáriodaSilva\\source\\repos\\NerdStoreEnterprise\\src\\services\\Client.API\\Client.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RomáriodaSilva\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
